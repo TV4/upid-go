@@ -1,3 +1,5 @@
+**Deprecated; use APID from github.com/TV4/go-sdk/auth instead.**
+
 # upid-go
 
 [![Build Status](https://travis-ci.com/TV4/upid-go.svg?branch=master)](https://travis-ci.com/TV4/upid-go)

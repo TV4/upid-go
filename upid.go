@@ -1,3 +1,5 @@
+// Deprecated: This package is no longer maintained.
+//
 // Package upid encodes and decodes UPIDs. A UPID is a canonical string that
 // combines a user ID and a profile ID.
 //
